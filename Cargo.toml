@@ -1,0 +1,9 @@
+[package]
+name = "prefix_parse"
+version = "1.0.0"
+edition = "2024"
+
+[dependencies]
+num-traits = "0.2.19"
+tap = "1.0.1"
+thiserror = "2.0.16"
